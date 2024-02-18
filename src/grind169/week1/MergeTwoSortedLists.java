@@ -3,9 +3,9 @@ package grind169.week1;
 public class MergeTwoSortedLists {
     /*
      *  Problem: https://leetcode.com/problems/merge-two-sorted-lists/description/
-     *  Most votes solution:
-     *  https://leetcode.com/problems/merge-two-sorted-lists/solutions/9715/java-1-ms-4-lines-codes-using-recursion
-     *  Refer to the 'Comments' section below this solution, where the comparison between recursion and iteration is discussed.
+     *  Solution Explanation:
+     *    https://leetcode.com/problems/merge-two-sorted-lists/solutions/9715/java-1-ms-4-lines-codes-using-recursion
+     *    Refer to the 'Comments' section below this solution, where the comparison between recursion and iteration is discussed.
      *
      *  Test Cases:
      *    [], [] -> []

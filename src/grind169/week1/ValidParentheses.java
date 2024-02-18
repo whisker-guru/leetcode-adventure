@@ -5,7 +5,8 @@ import java.util.Stack;
 public class ValidParentheses {
     /*
      *  Problem: https://leetcode.com/problems/valid-parentheses/description/
-     *  Most votes solution: https://leetcode.com/problems/valid-parentheses/solutions/3399077/easy-solutions-in-java-python-and-c-look-at-once-with-exaplanation
+     *  Solution Explanation: https://leetcode.com/problems/valid-parentheses/solutions/3399077/easy-solutions-in-java-python-and-c-look-at-once-with-exaplanation
+     *
      *  Test Cases:
      *    "()" -> true
      *    "([{}])" -> true
