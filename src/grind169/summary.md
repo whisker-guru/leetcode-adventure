@@ -17,6 +17,7 @@ In the following contents, 🟢 represents Easy, 🟡 represents Medium, 🔴 re
   - 🟢 [704. Binary Search](https://leetcode.com/problems/binary-search/description/)
   - 🟢 [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)
   - 🟡 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
-
+  - 🟢 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+  - 🟢 []()
 #### Week 2
 
