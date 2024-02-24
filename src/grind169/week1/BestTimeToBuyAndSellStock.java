@@ -3,7 +3,6 @@ package grind169.week1;
 public class BestTimeToBuyAndSellStock {
     /*
      *  Problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
-     *  Solution Explanation: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/1735493/java-c-best-ever-explanation-could-possible
      *
      *  Test Cases:
      *    [7,1,5,3,6,4] -> 5 (6-1)

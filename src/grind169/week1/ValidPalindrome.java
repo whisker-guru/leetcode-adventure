@@ -3,7 +3,6 @@ package grind169.week1;
 public class ValidPalindrome {
     /*
      *  Problem: https://leetcode.com/problems/valid-palindrome/description/
-     *  Solution Explanation: https://leetcode.com/problems/valid-palindrome/solutions/3165353/beats-96-9-well-explained-code-in-java
      *
      *  Test Cases:
      *    "A man, a plan, a canal: Panama" -> true

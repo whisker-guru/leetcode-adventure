@@ -5,8 +5,7 @@ import java.sql.Time;
 public class BalancedBinaryTree {
     /*
      *  Problem: https://leetcode.com/problems/balanced-binary-tree/description/
-     *  Solution Explanation:
-     *    https://leetcode.com/problems/balanced-binary-tree/solutions/2428871/very-easy-100-fully-explained-c-java-python-javascript-python3
+     *
      *  Test Cases:
      *    See the problem link.
      */

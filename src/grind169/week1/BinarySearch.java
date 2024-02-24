@@ -3,8 +3,6 @@ package grind169.week1;
 public class BinarySearch {
     /*
      *  Problem: https://leetcode.com/problems/binary-search/description/
-     *  Solution Explanation:
-     *    https://leetcode.com/problems/binary-search/solutions/3363885/easy-solutions-in-java-python-and-c-look-at-once-with-exaplanation
      *
      *  Test Cases:
      *    nums = [-1,0,3,5,9,12], target = 9 -> 4

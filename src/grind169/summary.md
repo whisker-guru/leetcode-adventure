@@ -18,6 +18,11 @@ In the following contents, 🟢 represents Easy, 🟡 represents Medium, 🔴 re
   - 🟢 [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)
   - 🟡 [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
   - 🟢 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
-  - 🟢 []()
+  - 🟢 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+  - 🟢 [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+  - 🟢 [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
+  - 🟢 [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)
+  - 🟢 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+  - 🟢 [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)
 #### Week 2
 

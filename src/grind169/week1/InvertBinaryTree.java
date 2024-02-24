@@ -8,8 +8,6 @@ import java.util.Queue;
 public class InvertBinaryTree {
     /*
      *  Problem: https://leetcode.com/problems/invert-binary-tree/description/
-     *  Solution Explanation:
-     *    https://leetcode.com/problems/invert-binary-tree/solutions/2463600/easy-100-fully-explained-java-c-python-js-c-python3-recursive-iterative
      *
      *  Test Cases:
      *    See the problem link

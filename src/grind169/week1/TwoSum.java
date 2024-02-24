@@ -6,7 +6,7 @@ import java.util.Map;
 public class TwoSum {
     /*
      *  Problem: https://leetcode.com/problems/two-sum/description/
-     *  Solution Explanation: https://leetcode.com/problems/two-sum/solutions/3619262/3-method-s-c-java-python-beginner-friendly
+     *
      *  Test Cases:
      *    [1,2,3], 4 -> [0,2]
      *    [3,3], 6 -> [0,1]

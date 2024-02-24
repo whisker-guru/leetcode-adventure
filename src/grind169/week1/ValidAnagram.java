@@ -3,7 +3,6 @@ package grind169.week1;
 public class ValidAnagram {
     /*
      *  Problem: https://leetcode.com/problems/valid-anagram/description/
-     *  Solution Explanation: https://leetcode.com/problems/valid-anagram/solutions/3687854/3-method-s-c-java-python-beginner-friendly/
      *
      *  Test Cases:
      *    "anagram", "nagaram" -> true
