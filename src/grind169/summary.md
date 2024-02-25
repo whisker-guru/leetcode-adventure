@@ -25,4 +25,11 @@ In the following contents, 🟢 represents Easy, 🟡 represents Medium, 🔴 re
   - 🟢 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
   - 🟢 [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)
 #### Week 2
-
+  - 🟢 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+  - 🟢 [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
+  - 🟢 [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
+  - 🟢 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+  - 🟢 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+  - 🟢 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+  - 🟢 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+  - ⛔ [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)
